@@ -1,0 +1,1 @@
+import React from 'react';export default function App(){return(<div className='bg-black text-white min-h-screen'><h1 className='text-4xl p-10'>Motix — React сайт готов</h1></div>);}
